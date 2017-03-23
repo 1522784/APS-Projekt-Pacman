@@ -14,7 +14,7 @@ sie sich nie auf das vorherige Feld zurück und natürlich auch nicht in Mauern 
 
 Bewegt sich der Student auf ein Feld mit einem Zettel, wird dieser eingesammelt. D.h. der Zettel verschwindet für den Rest des Spiels vom 
 Spielfeld und der Score wird um 1 erhöht. Sind alle Zettel eingesammelt, hat der Spieler gewonnen. Treffen sich der Student und ein 
-Professor, wird der Student erwischt und der Spieler hat verloren.
+Professor, wird der Student erwischt und verliert einen der drei Versuche. Hat der Spieler keine Versuhe mehr, hat der Spieler hat verloren.
 
 Alle 30s erscheint auf einem leeren Feld ein Kaffee, welcher nach 5s abkühlt und vom Feld verschwindet. Wenn der Student auf dieses 
 Feld geht, trinkt er den Kaffee. D.h. Der Kaffee verschwindet und der Student wird für die nächsten 10s zum Super-Student. Trifft der 
